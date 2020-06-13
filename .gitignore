@@ -117,3 +117,9 @@ dist
 package-lock.json
 
 dev.js
+
+node_modules/
+yarn.lock
+yarn.lock 2
+
+.DS_Store
